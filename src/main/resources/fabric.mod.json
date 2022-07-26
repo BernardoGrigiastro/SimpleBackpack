@@ -28,9 +28,9 @@
     "simple_backpack.mixins.json"
   ],
   "depends": {
-    "fabricloader": ">=0.12.12",
+    "fabricloader": ">=0.13.3",
     "fabric": "*",
     "java": ">=17",
-    "minecraft": "1.18.x"
+    "minecraft": "1.19.x"
   }
 }

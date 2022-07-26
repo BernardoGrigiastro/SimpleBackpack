@@ -1,0 +1,19 @@
+{
+  "item.simple_backpack.backpack": "Sac à dos",
+  "container.simple_backpack.backpack": "Sac à dos simple",
+
+  "item.simple_backpack.void_pack": "Sac de vide",
+  "container.simple_backpack.void_pack": "ATTENTION!!! LES OBJETS SERONT PERDUS",
+
+  "item.simple_backpack.ender_pack": "Sac de l'Ender",
+  "container.simple_backpack.ender_pack": "Enderchest en déplacement",
+
+  "item.simple_backpack.simple_bundle": "Paquet simple",
+  "item.simple_backpack.simple_bundle.tip1": "Accroupi + clic droit pour vider TOUT le contenu sur le sol",
+
+  "item.simple_backpack.void_bundle": "Paquet du vide",
+  "item.simple_backpack.void_bundle.tip1": "Un paquet pour vos déchets",
+  "item.simple_backpack.void_bundle.tip2": "Accroupi + clic droit pour détruire le contenu",
+
+  "itemGroup.simple_backpack.simple_backpack_group": "Sac à dos simple"
+}
